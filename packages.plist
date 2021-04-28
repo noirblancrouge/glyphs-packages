@@ -11,7 +11,7 @@
 					en = "*Specimen Palette* Specimen plugin for Glyphs app.";
 				};
 				minVersion = 895;
-				}
-			)
-		}
+				},
+			);
+		};
 }
