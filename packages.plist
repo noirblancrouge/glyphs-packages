@@ -11,6 +11,7 @@
 				descriptions = {
 					en = "*Specimen Palette* Specimen plugin for Glyphs app.";
 				};
+				screenshot = "https://raw.githubusercontent.com/noirblancrouge/Specimen/main/specimen_palette.jpg";
 				minVersion = 895;
 				},
 			
