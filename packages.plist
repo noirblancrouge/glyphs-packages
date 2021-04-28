@@ -1,0 +1,11 @@
+{
+	titles = {
+		en = "Specimen";
+	};
+	path = "Specimen.glyphsPalette";
+	url = "https://github.com/noirblancrouge/Specimen";
+	descriptions = {
+		en = "*Specimen Palette* Specimen plugin for Glyphs app.";
+	};
+	minVersion = 895;
+}
