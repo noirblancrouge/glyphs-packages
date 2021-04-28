@@ -1,5 +1,4 @@
-{
-	packages = {
+
 		plugins = (
 				{
 				titles = {
@@ -13,5 +12,3 @@
 				minVersion = 895;
 				},
 			);
-		};
-}
