@@ -1,5 +1,7 @@
-
+{
+	packages = {
 		plugins = (
+
 				{
 				titles = {
 					en = "Specimen";
@@ -11,4 +13,7 @@
 				};
 				minVersion = 895;
 				},
-			);
+			
+		);
+	};
+}
